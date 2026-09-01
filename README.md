@@ -13,7 +13,7 @@ Currently at **Intercash**, leading cloud security architecture and PCI DSS comp
 
 ## Recent work
 - **[Reverse Proxy Configuration for a Next.js App](https://github.com/hemanthSel/ReverseProxy-Config-for-Next.js-App-on-Apache)** — fronting an application with Apache as a reverse proxy: TLS termination at the edge, systemd process management, and a real production incident (`AH00957`/`AH01114` connection-refused) diagnosed from first principles.
-- **[Apache Load Balancing (Horizontal Scaling)](#)** — extending a single-instance reverse proxy into a load-balanced cluster: versioned build artifacts, isolated systemd-managed instances, and `mod_proxy_balancer` with observable request routing.
+- **[Apache Load Balancing (Horizontal Scaling)](https://github.com/hemanthSel/ALB-for-a-Next.js-App-Horizontal-Scaling)** — extending a single-instance reverse proxy into a load-balanced cluster: versioned build artifacts, isolated systemd-managed instances, and `mod_proxy_balancer` with observable request routing.
 - **[Cloud](https://github.com/hemanthSel/Cloud)** — cloud infrastructure and automation projects (Python).
 
 
